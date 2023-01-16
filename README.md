@@ -1,6 +1,13 @@
 # Mask-Detection
 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐅𝐚𝐜𝐞 𝐦𝐚𝐬𝐤 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧  
 
+### Libraries used
+
+-KERAS
+-NUMPY
+-OPENCV
+-SKLEARN
+
 
 
 ## System Overview
@@ -38,7 +45,12 @@ Change the path in the code.
 python detectorwerghi.py
 ```
 
-##haarcascades 
+## Haarcascades 
 a machine learning-based approach where a lot of positive and negative images are used to train the classifier. Positive images – These images contain the images which we want our classifier to identify. Negative Images – Images of everything else, which do not contain the object we want to detect.
 
 ``` https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml ```
+
+
+## TO DO
+
+add an alert system
