@@ -1,0 +1,4 @@
+dataset link: https://www.kaggle.com/datasets/belsonraja/face-mask-dataset-with-and-without-mask?resource=download
+
+opencv for python : pip install opencv-python 
+np utils for python : pip install np_utils
